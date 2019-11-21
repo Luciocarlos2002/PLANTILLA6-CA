@@ -177,7 +177,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		line-height: 1.25;
+		line-height: 3.25;
 		margin: 0 0 0.5em 0;
 		color: #555;
 	}
@@ -188,7 +188,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.25em;
+		font-size: 4.25em;
 	}
 
 	h3 {
