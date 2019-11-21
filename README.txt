@@ -1,23 +1,20 @@
-Lens by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+PLANTILLA 6
+
+PROYECTOS ITO
+
+Esta plantilla se ha realizado con la finalidad de mostrar lo que se esta realizando en Valle Grande, proyectos que se mostraran al publico y que traeran beneficios tanto como en lo social
+como en lo empresarial, estos proyectos buscan una buena seguridad y una buena comodidad para el cliente, los proyectos que hemos puesto en informacion en nuestra 
+Plantilla son los siguientes:
+
+	- Alarma Inteligente
+	- Dispensador de Peces
+
+En la pagina se añadieron los siguientes:	
+
+	- Se incorporaron imagenes para demostrar los avances que hemos realizado en nuestros proyectos.
+	-  	Procesos y Objetivos de cafa proyecto que se incorporo.
 
 
-This is Lens, a full screen (and entirely responsive) photo gallery design. Unlike previous
-designs I've done in this vein (Parallelism, for instance), this one eschews the usual
-lightbox in favor of a completely full screen experience -- one that I'm happy to say
-translates awesomely all the way down to the tiniest of mobile devices. Full instructions
-below!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
 Instructions:
@@ -83,24 +80,13 @@ Instructions:
 		Note: All keyboard shortcuts are disabled when the "xsmall" breakpoint is active
 		(since they don't really make a whole lot of sense there).
 
-	Other stuff:
+Créditos:
 
-		- The main wrapper can be moved to the left by changing the "misc.main-side" variable
-		  in assets/sass/libs/_vars.scss to "left" (and of course recompiling your CSS).
+	Imagenes incorporadas:
+		Grupo 1 y Grupo 5
 
-		- Additional tweakable settings can be found at the top of assets/js/main.js, but
-		  be aware most of these need to sync with certain Sass variables (see comments
-		  for details).
+	Iconos:
+		Grupo 1 y Grupo 5
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	Otros:
+		Grupo 1 y Grupo 5
